@@ -5,8 +5,10 @@
 I am not a professional programmer.
 I am a father, a curious mind, a student of life.
 This project was born during a difficult period of my life, when I had to reinvent myself and embrace learning as a way to move forward. Every command line, every sleepless night, was an effort beyond what I thought I could achieve.
+At first, I thought only one distro (Arch by Kwankiu) could boot from NVMe. But when I tested others, I almost fell off my chair — it worked with all of them. Sometimes we surprise ourselves with what we build.
 The result is simple but powerful: a universal bootloader for the Orange Pi 5 Pro.
 Flash it once to the eMMC, and from then on, just pick the distro you want, write it to the NVMe, and boot. No headaches, no manual tweaks.
+
 
 ⚙️ How to use
 
@@ -60,6 +62,7 @@ If you’d like to support me so I can keep learning, testing, and sharing, here
 Eu não sou programador profissional.
 Sou pai, curioso, aluno da vida.
 Esse projeto nasceu no meio de um período difícil da minha vida, em que precisei me reinventar e agarrar o aprendizado como forma de seguir em frente. Cada linha de comando, cada noite sem dormir, foi um esforço acima do que eu achava que conseguiria.
+No começo, achei que só uma distro (o Arch do Kwankiu) conseguia dar boot pelo NVMe. Mas quando resolvi testar outras, quase caí de costas — funcionou com todas. Às vezes a gente mesmo se surpreende com o que cria.
 O resultado é simples, mas poderoso: um bootloader universal para o Orange Pi 5 Pro.
 Grave uma vez no eMMC e, a partir daí, basta escolher a distro que você quiser, gravar no NVMe e ligar a placa. Sem dor de cabeça, sem ajustes manuais.
 
